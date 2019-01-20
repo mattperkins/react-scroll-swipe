@@ -1,0 +1,30 @@
+{
+  "name": "react-r2jby4",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "prop-types": "15.x.x",
+    "react": "16.5.0",
+    "react-dom": "16.5.0",
+    "react-spring": "^7.2.9",
+    "react-swipeable": "^4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "main": "index.js",
+  "author": "mattperkins <github@mattperkins.com>",
+  "license": "MIT"
+}
