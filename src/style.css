@@ -1,0 +1,26 @@
+* {
+  font-family: Lato;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.main > div {
+  cursor: pointer;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+  font-family: Kanit, sans-serif;
+  font-weight: 800;
+  font-size: 10em;
+  will-change: transform, opacity;
+}
+img{
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
